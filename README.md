@@ -15,13 +15,11 @@
 
    <br/>
 <h3>🛠️ 사용 기술 & 라이브러리</h3>
-**`Frontend`**
+<p>Frontend</p>
+<p>html/ css / js </p>
+<p>React, React Router</p>
 
-• html/ css / js 
 
-• React
-
-• React Router
 
 • Redux
 
