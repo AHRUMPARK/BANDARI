@@ -47,3 +47,31 @@
 - **페이지네이션** : react-paginate 라이브러리 사용 ⇒ 필요에 맞게 state 값들을 커스텀해서 사용 함
 - **좋아요 기능** :  로그인시 Redux ID 저장 ⇒ 좋아요 데이터가 아이디와 일치시 개인이 찜한 상품이 보임, 찜하기와 해제 가능
 - **카드** : 카드를 누르면, useNavigater로 라우터에 데이터를 보내서 디테일 페이지 출력
+
+
+**`판매 디테일 페이지`**
+
+- **사진 미리보기** : 업로드 사진 미리보기 기능
+- **사진 업로드** : 최대 4개까지 제한, 슬라이드 사용
+- **본인 위치 자동 저장 :**  Redux 사용 ⇒ 본인 위치값을 글 등록시 자동 저장됨
+- **가격** :  숫자 입력만 가능하게 함
+- **사용한 반려동물** : Redux에 저장된 유저의 펫 데이터 사용
+- **본인 글** : 아이디가 일치시 수정, 삭제 가능
+- **다른사람 글** : 수정, 삭제 대신 연락하기 ⇒ 채팅방으로 넘어가는 기능
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba47d6cd-56b6-43e9-9955-9f55b8de02a2/Untitled.png)
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3570670-d2e8-44cd-a346-e0b2eed7ee6d/Untitled.png)
+
+**`펫 등록 페이지`**
+
+- **사진 업로드** : 사진 미리보기, 업로드 기능
+- **사진 업로드** : 사진 미리보기, 업로드 기능
+- **나이 :**  jQuery로 현재 날짜로부터 20년 계산
+- **등록** :  등록하면서 펫 Redux에도 데이터 저장
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0361e5a-87e8-47ff-a0b5-3356fad626fa/Untitled.png)
+
+저장된 값은 마이페이지에 반영
+
+
