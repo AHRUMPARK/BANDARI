@@ -35,6 +35,7 @@
 **`프로젝트 기획`**
 <h4>판매 페이지, 디테일 페이지 ( 상품, 펫 ) UI & CRUD</h4>
 
+<img src="https://https://user-images.githubusercontent.com/116782319/226568846-ceed3b3e-42df-43b6-a3bb-59d39a100feb.png"  width="1000" align="center" />
 
 **`판매 페이지 화면 및 구현기능`**
 
