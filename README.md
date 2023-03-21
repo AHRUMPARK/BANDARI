@@ -33,7 +33,7 @@
 <h3>✒ 구현 기능</h3>
 **`프로젝트 기획`**
 <h4>판매 페이지, 디테일 페이지 ( 상품, 펫 ) UI & CRUD</h4>
-
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77910b82-18d7-479f-8d50-e24a7786f803/Untitled.png"  width="1000" align="center" />
 
 **`판매 페이지 화면 및 구현기능`**
 
