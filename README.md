@@ -15,32 +15,15 @@
 
    <br/>
 <h3>🛠️ 사용 기술 & 라이브러리</h3>
+
 **`Frontend`**
-<p>html/ css / js </p>
-<p>React, React Router</p>
+• html / css / js 
+• React / React Router / Redux
 
-
-
-• Redux
 
 **`Backend`**
-
-• node
-
-• Express
-
-• Sequelize
-
-• Socket.io
-
-• Mysql
+• node / Express
+• Sequelize / Socket.io / Mysql
 
 **`Communication`**
-
-• Slack
-
-• kakaotalk
-
-• Notion
-
-• Figma
+• Slack / kakaotalk / Notion / Figma
