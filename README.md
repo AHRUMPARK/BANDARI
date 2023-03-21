@@ -58,10 +58,10 @@
 - **사용한 반려동물** : Redux에 저장된 유저의 펫 데이터 사용
 - **본인 글** : 아이디가 일치시 수정, 삭제 가능
 - **다른사람 글** : 수정, 삭제 대신 연락하기 ⇒ 채팅방으로 넘어가는 기능
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba47d6cd-56b6-43e9-9955-9f55b8de02a2/Untitled.png"  width="1000" align="center" />
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba47d6cd-56b6-43e9-9955-9f55b8de02a2/Untitled.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3570670-d2e8-44cd-a346-e0b2eed7ee6d/Untitled.png)
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3570670-d2e8-44cd-a346-e0b2eed7ee6d/Untitled.png" />
 
 **`펫 등록 페이지`**
 
@@ -70,7 +70,7 @@
 - **나이 :**  jQuery로 현재 날짜로부터 20년 계산
 - **등록** :  등록하면서 펫 Redux에도 데이터 저장
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0361e5a-87e8-47ff-a0b5-3356fad626fa/Untitled.png)
+<img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0361e5a-87e8-47ff-a0b5-3356fad626fa/Untitled.png" />
 
 저장된 값은 마이페이지에 반영
 
