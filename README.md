@@ -15,7 +15,7 @@
 
    <br/>
 <h3>🛠️ 사용 기술 & 라이브러리</h3>
-<p>Frontend</p>
+**`Frontend`**
 <p>html/ css / js </p>
 <p>React, React Router</p>
 
