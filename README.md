@@ -27,3 +27,10 @@
 
 **`Communication`**
 • Slack / kakaotalk / Notion / Figma
+
+
+   <br/>
+<h3>✒ 구현 기능</h3>
+**`프로젝트 기획`**
+
+**판매 페이지, 디테일 페이지 ( 상품, 펫 ) UI & CRUD**
